@@ -1,4 +1,4 @@
-# claude-desktop-proxy
+# claude-desktop-proxy-macos
 
 [English](README.md) · **Русский**
 
@@ -21,7 +21,7 @@ Claude.app ──► локальный mihomo (127.0.0.1:7890) ──► upstre
 ## Установка
 
 ```sh
-git clone https://github.com/DenoBY/claude-desktop-proxy.git ~/.claude-proxy
+git clone https://github.com/DenoBY/claude-desktop-proxy-macos.git ~/.claude-proxy
 cd ~/.claude-proxy
 
 cp config.env.example config.env      # впиши сюда свой апстрим-прокси

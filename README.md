@@ -1,4 +1,4 @@
-# claude-desktop-proxy
+# claude-desktop-proxy-macos
 
 **English** · [Русский](README.ru.md)
 
@@ -21,7 +21,7 @@ Claude.app ──► local mihomo (127.0.0.1:7890) ──► upstream proxy ─�
 ## Setup
 
 ```sh
-git clone https://github.com/DenoBY/claude-desktop-proxy.git ~/.claude-proxy
+git clone https://github.com/DenoBY/claude-desktop-proxy-macos.git ~/.claude-proxy
 cd ~/.claude-proxy
 
 cp config.env.example config.env      # put your upstream proxy here
